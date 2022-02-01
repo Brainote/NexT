@@ -1,0 +1,14 @@
+{
+  "name": "next",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "less": "^4.1.2",
+    "vite": "^2.7.2"
+  }
+}
